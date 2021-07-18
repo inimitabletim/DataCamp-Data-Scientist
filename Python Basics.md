@@ -1,8 +1,8 @@
 #Hello Python!
 
-##Will learn
+## Will learn
 
-Python
+### Python
 Specifically for data science
 Store data
 Manipulate data
