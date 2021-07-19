@@ -16,7 +16,7 @@ list[0] = new_object
 
 If you want to prevent changes in new_list from also taking effect list
 you'll have to do a more explicit copy of the list.
-You can do this with list() or by using [:].
+You can do this with list() or by using list[:].
 
 # add: use +
 
