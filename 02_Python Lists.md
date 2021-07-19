@@ -14,7 +14,7 @@ zero-based indexing
 
 list[0] = new_object
 
-If you want to prevent changes in areas_copy from also taking effect list
+If you want to prevent changes in new_list from also taking effect list
 you'll have to do a more explicit copy of the list.
 You can do this with list() or by using [:].
 
@@ -22,7 +22,7 @@ You can do this with list() or by using [:].
 
 [list] + [a,b] will add a and b in the end of list
 
-# remove: del(list[value])
+# del(list[value])
 
 
 
