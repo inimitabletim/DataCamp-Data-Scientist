@@ -22,7 +22,7 @@ You can do this with list() or by using [:].
 
 [list] + [a,b] will add a and b in the end of list
 
-# remove: del(list[obj])
+# remove: del(list[value])
 
 
 
